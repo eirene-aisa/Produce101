@@ -50,4 +50,6 @@
 
  이후 안내창 내용에 따라 동작하는지 본 동작 시작까지 지켜봐주신 후, 창을 최소화 해두시면 됩니다.
 
+https://www.youtube.com/watch?v=TB_KHzjPqo4
+
 문의 : puremint09@gmail.com
