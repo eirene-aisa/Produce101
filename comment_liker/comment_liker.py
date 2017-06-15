@@ -34,11 +34,6 @@ def main():
   # url_hit = "http://tv.naver.com/v/1747159/list/132312"
   url_hit = "http://tv.naver.com/v/1776027/list/134990"
 
-  '''
-  ID = "dophamipa109"
-  PSSWD = "Shaspell.0era"
-  NICKNAME = "참새삐약" # 본인 별명으로 수정
-  '''
   ID = ""
   PSSWD = ""
   NICKNAME = ""
